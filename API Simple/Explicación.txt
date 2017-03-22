@@ -1,0 +1,3 @@
+He utilizado la API oficial del blockchain para representar en tiempo real el precio de los bitcoins.
+He convertido el json a un array porque me daba error al intentar sacar el valor de "15m", supongo que
+es porque empieza por número, pero aun asi me gustaría saber porque es y si se puede solucionar de alguna manera.
